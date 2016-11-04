@@ -1,5 +1,5 @@
 
-# Hand Coded Mean Shift Clustering code
+# Mean Shift Clustering Model
 #
 # We can vary: our_radius to determine
 # how our input data points X are to 
